@@ -308,7 +308,7 @@ To get to Safe Links, view a [short training video](increase-threat-protection.m
 
 1. Go to <a href="https://go.microsoft.com/fwlink/p/?linkid=2077139" target="_blank">Microsoft 365 Defender portal</a>, and sign in with your admin account.
 
-2. Go to **Email & collaboration** \> **Policies & rules** \> **Threat policies** \> **Anti-malware** in the **Policies** section.
+2. Go to **Email & collaboration** \> **Policies & rules** \> **Threat policies** \> **Safe Links** in the **Policies** section.
 
 3. Select **+ Create** to create a new policy, or modify the default policy.
 
